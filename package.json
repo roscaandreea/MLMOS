@@ -1,0 +1,26 @@
+{
+  "name": "mlmos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roscaandreea/MLMOS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roscaandreea/MLMOS/issues"
+  },
+  "homepage": "https://github.com/roscaandreea/MLMOS#readme",
+  "devDependencies": {
+    "vows": "^0.8.1"
+  }
+}
